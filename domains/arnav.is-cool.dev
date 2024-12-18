@@ -1,0 +1,16 @@
+{
+    "description": "Project Description",
+    "domain": "is-not-a.dev",
+    "subdomain": "example",
+
+    "owner": {
+        "repo": "https://github.com/ArnavBarway/cool-register",
+        "email": "arnav@sagaraga.com"
+    },
+
+    "record": {
+        "CNAME": "cname.vercel-dns.com",
+    },
+
+    "proxied": false
+}

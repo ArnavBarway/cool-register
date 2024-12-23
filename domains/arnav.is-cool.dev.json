@@ -1,8 +1,7 @@
 {
     "description": "Project Description",
     "domain": "is-cool.dev",
-    "subdomain": "example",
-
+    "subdomain": "arnav",
     "owner": {
         "repo": "https://github.com/ArnavBarway/cool-register",
         "email": "arnav@sagaraga.com"
